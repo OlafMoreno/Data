@@ -1,17 +1,14 @@
 {
     "Mensajes": [
         {
-            "ID": 1,
             "Texto": "Este es el primer mensaje.",
             "Fecha": "2024-07-04T12:00:00Z"
         },
         {
-            "ID": 2,
             "Texto": "Este es el segundo mensaje.",
             "Fecha": "2024-07-04T12:01:00Z"
         },
         {
-            "ID": 3,
             "Texto": "Este es el tercer mensaje.",
             "Fecha": "2024-07-04T12:02:00Z"
         }
